@@ -1,0 +1,98 @@
+﻿body {
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin-left: 8px;
+    margin-right: auto;
+    color: #126266;
+    font-weight: bold;
+    background-color: white;
+    height: 31px;
+    width: 84px;
+}
+
+.container-fluid {
+    padding: 10px;
+    /*box-shadow: 5px 5px 10px #888888;*/
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.nav-bar:hover {
+    color: white;
+    background-color: #126266;
+}
+
+a:hover {
+    color: white;
+    background-color: #126266;
+}
+
+/*//footer
+*/
+.footer {
+    position: absolute;
+    /*  margin-top:200px;*/
+    background-color: #F4F4F4;
+    width: 100%;
+    height: 50px;
+}
+
+.fontawsome {
+    color: #126266;
+}
+
+
+    .fontawsome:hover {
+        color: white;
+        background-color: #126266;
+    }
+
+.table {
+    background-color: #BBD8DE;
+    width: 90%;
+    text-align: center;
+    border-radius: 50px;
+    height:1000px;
+}
+
+.container {
+    margin-left: 8%;
+    height:1000px;
+}
+
+.adminhead {
+    /*margin-top:15%;*/
+}
+
+#Button1 {
+    background-color: #E8F0FE;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+#Button2 {
+    background-color: #E8F0FE;
+    border-radius: 10px;
+    width: 80px;
+    height: 25px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+
+.TextBox {
+    border-radius: 4px;
+    width: 90%;
+    border: 1px solid black;
+    text-align: start;
+}
+
+.div2 {
+    display: none;
+}
